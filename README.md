@@ -103,19 +103,7 @@ The model enables comprehensive financial reporting through relationships betwee
 - Budgeted Expenses
 - Date
 
----
 
-# 📷 Dashboard Preview
-
-## Main Dashboard
-
-![Financial Dashboard](dashboard.png)
-
-## Filtered Dashboard
-
-![Filtered Dashboard](filtered-dashboard.png)
-
----
 
 # 📂 Repository Structure
 
@@ -135,7 +123,8 @@ Financial-Health-Dashboard-PowerBI/
 1. Clone or download this repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Financial-Health-Dashboard-PowerBI.git
+git clone https://github.com/Prince95086/Financial-Health-Dashboard-PowerBI.git
+cd Financial-Health-Dashboard-PowerBI
 ```
 
 2. Open **FINANCIAL HEALTH DASHBOARD.pbix** in Microsoft Power BI Desktop.
