@@ -111,8 +111,8 @@ The model enables comprehensive financial reporting through relationships betwee
 Financial-Health-Dashboard-PowerBI/
 │
 ├── FINANCIAL HEALTH DASHBOARD.pbix
-├── dashboard.png
-├── filtered-dashboard.png
+├── Financial Health image2.png
+├── Financial Health image1.png
 └── README.md
 ```
 
